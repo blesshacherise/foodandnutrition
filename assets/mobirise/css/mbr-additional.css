@@ -610,6 +610,9 @@ h6,
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features1-1n .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #ext_menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
