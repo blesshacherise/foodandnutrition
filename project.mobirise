@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "foodandnutritionpromo",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -147,7 +147,7 @@
           },
           "title": "FOOD &amp; NUTRITION",
           "text": "This weekly course is suitable for anyone looking to advance their cooking skills. From an egg to an omelette, every week you learn new and exciting recipes to test your technique and cooking abilities.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT RECIPES</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT RECIPES</a>",
           "_tags": [
             "Theme"
           ],
@@ -313,9 +313,9 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
-              "authorName": "Abanoub S.",
+              "authorName": "Jessline Chow, 10A",
               "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "\"Since joining food &amp; nutrition, it has inspired me to cook more at home. I remember not being able to cook instant noodles properly and now I can make carbonara! Its my third year joining food &amp; nutrition and its been so fun. It doesn't even feel like school.&nbsp;",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -327,9 +327,9 @@
               }
             },
             {
-              "authorName": "Suffian A.",
+              "authorName": "Auryn Zhang, 10A",
               "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "\" Food &amp; Nutrition has been a blast! I've been cooking since I was young but I never really learned any specific techniques. After joining this elective, I'm able to further advance my skills and create many different dishes. I would recommend this course to anyone who loves food, you won't regret it.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -341,9 +341,9 @@
               }
             },
             {
-              "authorName": "Jhollman C.",
+              "authorName": "Joey Chance, 10B",
               "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "\" At first I took this course because I wanted to eat everyweek, but after two years of joining, it is so much more than just food. You'll get to learn so many different theories that really helped me understand the techniques that goes into making the food. Overall it was a fun and delicious course!\"",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
