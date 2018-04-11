@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "foodandnutritionpromo",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 60,
+    "uniqCompNum": 70,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -444,7 +444,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "prog course",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -612,7 +612,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "prog recipe",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -735,10 +735,13 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/food-3-598x468.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -782,9 +785,9 @@
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Cream Horn",
+          "subtitle2": "",
+          "caption2": "A cream horn is a pastry made with flaky or puff pastry, and whipped cream. The horn shape is made by winding overlapping pastry strips around a conical mould.",
           "title3": "Chicken Stromboli",
           "subtitle3": "",
           "caption3": "Similar to a calzone, a pizza or bread dough rolled over various fillings and baked. It is usually shaped in a long cylinder. This Chicken Stromboli is a delicious dish makes a great lunch or appetizer.",
@@ -798,9 +801,9 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -820,7 +823,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "teacher",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -1032,7 +1035,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "image class act",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
@@ -1127,7 +1130,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "image recipe",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -1420,6 +1423,450 @@
           ],
           "_name": "map1",
           "_anchor": "map1-1d"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "cream horn",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROGRAMME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">course introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">recipes learned</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TEACHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-y\">TESTIMONY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IMAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">class activites</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">recipes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html#image2-19\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-z\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sf-logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SPRINGFIELD</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1o"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<b>INGREDIENTS</b><div>1 package puff pastry dough</div><div>750 ml fresh milk</div><div>100 gr sugar</div><div>4 egg yolks</div><div>4 1/2 tbsp corn flour</div><div>3 tbsp flour</div><div>1 tsp vanilla extract</div><div>1½ tsp rum extract</div><div>Piping bags</div><div>50 gr sugar</div><div>1 egg</div><div>Parchment papers</div><div><b><br></b></div>",
+          "text2": "<p><b>STEPS</b></p><p><i>For the shell:</i></p><p>Cut the dough into 4 squares and cut each square into 1cm wide strips</p><p>Wrap each strip around the cream horn mold, overlapping a little with each round</p><p>Beat 1 egg in a bowl and add 2 tbsp of milk. Brush the cream horn with the egg wash and sprinkle with sugar</p><p>Place the horn onto a baking tray that has been greased with margarine then bake in 180 degrees Celcius  preheated oven for 15-20 minutes until golden brown</p><p><br></p><p><i>For the filling:</i></p><p>heat milk and sugar in boiling pot until the sugar dissolves and the milk reaches simmering point then lower the heat.</p><p>In a bowl, combine the corn flour, flour, and egg yolks and mix well. Then add 1 ladleful of the hot milk to the flour mixture. Mix well and strain to remove the lumps.</p><p>Add the flour mixture to the hot milk and keep stirring until the milk is thickened. Add vanilla extract and rum extract.</p><p>Once the milk has reached the desired consistency, remove from heat and cool it down.</p><p>Put the filling in piping bag that has been fitted with piping nozzle, take 1 shell, pierce the side and pipe out the filling into the shell.</p><p><b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1t",
+          "_styles": {
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#c0a375",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          }
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "chicken strmboli",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROGRAMME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">course introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">recipes learned</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TEACHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-y\">TESTIMONY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IMAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">class activites</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">recipes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html#image2-19\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-z\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sf-logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SPRINGFIELD</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/easy-cheesy-chicken-stromboli-recipe-1-1160x760.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<b>INGREDIENTS</b><div>1 package puff pastry dough</div><div>300 gr boneless and skinless chicken breast</div><div>1 pc onion</div><div>1 clove garlic</div><div>1 small can button mushroom</div><div>2 tbsp olive oil/ butter</div><div>1 pc small green bell pepper</div><div>1 pc small yellow/red bell pepper</div><div>5 tbsp bbq sauce</div><div>150 gr mozzarella cheese/ kraft quick melt</div><div>1 egg</div><div>salt and black pepper</div><div><b><br></b></div>",
+          "text2": "<p><b>STEPS</b></p><p>slice the chicken into dice and season with salt and black pepper</p><p>slice the onion</p><p>cut the bell pepper into julienne</p><p>chop the garlic</p><p>grate the cheese</p><p>beat the egg in small bowl with 2 tbsp of water. Set aside.</p><p>Heat the frying pan. Add 2 tbsp of olive oil or butter. Stir fry chopped garlic, and the chicken and cook until the chicken turns golden brown. Add the mushroom</p><p>Take half of the puff pastry dough. Put it on cutting board. Arrange the chicken, bell pepper, onion, over the dough, add 5 tbsp of bbq sauce, then top with cheese. roll up the dough into log and brush the top with the beaten egg.</p><p>Put it in the oven and bake for 20-25 minutes.</p><p><b><br></b></p><p><b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1v",
+          "_styles": {
+            "B": {
+              "color": "#c0a375",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "font-size": "17px",
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "roll cake",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROGRAMME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">course introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">recipes learned</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TEACHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-y\">TESTIMONY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IMAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">class activites</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">recipes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html#image2-19\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-z\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sf-logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SPRINGFIELD</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1q"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-1-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>INGREDIENTS</b></p><p>4 eggs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>1 tbsp milk powder</p><p>6 egg yolks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>50 gr unsalted margarine + extra for greasing</p><p>80 gr sugar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>½ tsp vanilla extract</p><p>½ tbsp cake emulsifier (TBM/ Ovalet) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>parchment paper</p><p>80 gr flour &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>strawberry jam</p><p>1 tbsp corn flour</p><p><b><br></b></p><p><b><br></b></p>",
+          "text2": "<p><b>STEPS</b></p><p>melt the margarine</p><p>sift the flour, corn flour, and milk powder</p><p>Using electric hand mixer, beat eggs, sugar, and cake emulsifier until the mixture become white and double in size. (increase the speed every 1 minute)</p><p>fold in the flour mixture gradually. Mix well</p><p>add the melted margarine gradually. Mix well</p><p>add the vanilla extract. Mix well</p><p>grease the baking tray with margarine and line with baking paper</p><p>pour the cake batter into the tray and bake in 200 C preheated oven for about 10-15 minutes</p><p>take out the cake from oven and put it up side down on another baking tray/ cutting board that has been lined with baking paper</p><p>remove the baking paper and spread the strawberry jam on the cake</p><p>roll the cake up</p><p><b><br></b></p><p><b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1x",
+          "_styles": {
+            "B": {
+              "color": "#c0a375",
+              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     }
