@@ -472,6 +472,9 @@ h6,
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-v .mbr-section-title {
+  color: #c0a375;
+}
 #form1-z .form-control-label {
   color: #232323;
 }
