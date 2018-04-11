@@ -475,6 +475,12 @@ h6,
 #header1-v .mbr-section-title {
   color: #c0a375;
 }
+#testimonials4-y .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials4-y .card-footer > div {
+  color: #c0a375;
+}
 #form1-z .form-control-label {
   color: #232323;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "foodandnutritionpromo",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 55,
+    "uniqCompNum": 58,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -298,7 +298,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1582x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -356,7 +356,15 @@
             }
           ],
           "_name": "testimonials4",
-          "_anchor": "testimonials4-y"
+          "_anchor": "testimonials4-y",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#c0a375"
+            }
+          }
         },
         {
           "_params": {
@@ -538,7 +546,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -551,13 +559,52 @@
             "overlayOpacity": 0.5
           },
           "title": "COURSE INTRODUCTION",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-1i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "With the increasing need for skillful people in the Food industry, Springfield offers Food &amp; Nutrition as a weekly elective option given to secondary students. There is a maximum of 20 students in each class due to limited kitchen space. Students are required to purchase and provide their own ingredients, however the school will provide them with the proper utensils. The students will not only learn though cooking but also through theory.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Food &amp; Nutrition students will make a new dish each week. What they create is determined by their teacher, <a href=\"page3.html\">Mr. Febrian Ralahalu</a>. Through out the semester, students will learn how to cook different dishes from different regions of the world. After creating their meal, it is mandatory for them to create a reflection that will be submitted the following week. These reflections include pictures of the dish, ingredients needed, instructions and what you've learned through cooking that dish. This method of learning allows the student to reflect on not only the taste and flavour of the food but also the learning aspect of making the dish.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Food and Nutrition allows students to explore their talent and interest in the hospitality industry. <span style=\"font-size: 1.07rem;\">In the beginning of each school year, students will learn theory before cooking in the kitchen. Theory builds a solid foundation to help student understand the dishes they will be making and how the food industry works. Students will be taught health &amp; nutrition, food &nbsp;production and restaurant service.&nbsp;</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1l"
         }
       ]
     },
