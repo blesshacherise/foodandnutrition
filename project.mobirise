@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "foodandnutritionpromo",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 73,
+    "uniqCompNum": 77,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -145,7 +147,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "FOOD &amp; NUTRITION",
+          "title": "FOOD &amp; NUTRITION<br><span style=\"font-weight: normal;\">Andrea, Auryn, Blessha, Jayson, Jessline</span>",
           "text": "This weekly course is suitable for anyone looking to advance their cooking skills. From an egg to an omelette, every week you learn new and exciting recipes to test your technique and cooking abilities.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT RECIPES</a>",
           "_tags": [
@@ -156,6 +158,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "48px"
             }
           }
         },
@@ -539,7 +544,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "Springfield international school pb3\n",
+              "address": "springfield international school pb3\n",
               "placeId": "",
               "state": "error",
               "stateDetails": "Unknown error"
@@ -551,22 +556,7 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1y"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "springfield international school pb3\n",
-              "placeId": "",
-              "state": "error",
-              "stateDetails": "Unknown error"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1z"
+          "_anchor": "contacts2-21"
         }
       ]
     },
@@ -574,7 +564,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "prog course",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -742,7 +732,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "prog recipe",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -839,7 +829,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
+            "paddingTop": "3",
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": false,
@@ -857,10 +847,13 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-19-at-1.04.30-pm-236x191.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
@@ -912,9 +905,9 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "Pandan Chicken",
+          "subtitle1": "",
+          "caption1": "Pandan leaf chicken is one of the best specialty chicken dishes in Thailand. The chicken is moist, tender, infused with refreshing pandan aroma and encased in the leaf packets.",
           "title2": "Cream Horn",
           "subtitle2": "",
           "caption2": "A cream horn is a pastry made with flaky or puff pastry, and whipped cream. The horn shape is made by winding overlapping pastry strips around a conical mould.",
@@ -930,7 +923,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -953,7 +946,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "teacher",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1173,7 +1166,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "cream horn",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1325,7 +1318,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "chicken strmboli",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1473,7 +1466,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "roll cake",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1608,6 +1601,150 @@
               "font-size": "36px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "pandanchicken",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROGRAMME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">course introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">recipes learned</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TEACHER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IMAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">class activites</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-20\" aria-expanded=\"false\">recipes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-y\">TESTIMONY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html#image2-19\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-z\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sf-logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SPRINGFIELD</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-22"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "7",
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pandan-chicken-1368x770.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-23"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>INGREDIENTS</b></p><p>500 gr boneless and skinless chicken breast</p><p>8 shallots</p><p>5 garlic cloves</p><p>2 cm fresh ginger</p><p>1 cm fresh turmeric</p><p>1 tsp coriander seed</p><p>3 chilies (cabe keriting)</p><p>1 stalk lemongrass</p><p>2 tbsp coconut milk powder</p><p>1 tsp pepper</p><p>2 tbsp oyster sauce</p><p>2 tbsp sesame oil</p><p>3 tbsp sugar</p><p>4 tsp corn flour</p><p>2 tbsp light soy sauce</p><p>40 large pandan leaves</p><p>1 liter cooking oil</p><p><b><br></b></p>",
+          "text2": "<p><b>STEPS</b></p><p>cut the chicken into cube then prick the chicken with knife/ fork</p><p>peel the garlic, shallot, ginger, and turmeric</p><p>crush the garlic, ginger and turmeric</p><p>break the chilies into smaller pieces</p><p>thinly slice the white part of the lemongrass</p><p>process the garlic, chilies, shallots, ginger, turmeric, lemongrass, and coriander seeds in food processor until they turn into smooth paste</p><p>marinade the chicken with the rest of ingredients except pandan leaves and oil</p><p>make a hollow triangle with pandan leaves</p><p>place the chicken in the center. Feed the right end through the hole, pull, and tighten.</p><p>turn over, feed the other end and secure tightly</p><p>if there is an extra space, fill it with another piece of chicken. Secure tightly</p><p>repeat the process for the remaining chicken</p><p>trim the excess leaves, leaving about 1 inch at each end</p><p>deep fry on medium heat until golden brown</p><p><b><br></b></p><p><b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-24",
+          "_styles": {
+            "B": {
+              "color": "#c0a375",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
             }
           }
         }
