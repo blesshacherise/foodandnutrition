@@ -400,18 +400,20 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "media": {
             "image": {
-              "active": true,
               "src": "@THEME_PATH@/components/_images/image1.jpg",
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://youtu.be/96JsPD56-3s",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
