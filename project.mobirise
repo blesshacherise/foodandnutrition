@@ -410,8 +410,8 @@
               "width": 1400
             },
             "video": {
-              "src": "https://youtu.be/96JsPD56-3s",
-              "autoplay": "on",
+              "src": "https://youtu.be/YX2wAtCGtJ8",
+              "autoplay": false,
               "loop": false,
               "active": true
             }
