@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "foodandnutritionpromo",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -464,7 +464,7 @@
               }
             },
             {
-              "authorName": "Auryn Zhang, 10A",
+              "authorName": "Auryn Chang, 10A",
               "authorBio": "User",
               "text": "\" Food &amp; Nutrition has been a blast! I've been cooking since I was young but I never really learned any specific techniques. After joining this elective, I'm able to further advance my skills and create many different dishes. I would recommend this course to anyone who loves food, you won't regret it.",
               "media": {
@@ -1070,7 +1070,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Mr. Febrian Ralahalu</b> is Springfield's Food &amp; Nutrition teacher for five consecutive years. He received his degree in Hotel management at Sahid &nbsp;Tourism Academy. His love and passion for cooking started with his first internship in a pastry kitchen. Mr. Ralahalu was then encouraged by his counselor to pursue his career.&nbsp;</p>",
+          "text1": "<p><b>Mr. Febrian Ralahalu</b> is Springfield's Food &amp; Nutrition teacher for six consecutive years. He received his degree in Hotel management at Sahid &nbsp;Tourism Academy. His love and passion for cooking started with his first internship in a pastry kitchen. Mr. Ralahalu was then encouraged by his counselor to pursue his career.&nbsp;</p>",
           "text2": "Through Food &amp; Nutrition, Mr. Ralahalu wants students to build teamwork, have good time management and keep a hygienic working area. He expects his students to submit reflection on time, bring all the ingredients needed and keep the kitchen clean. He plans to improve the student's cooking skills by teaching them recipes that require different techniques.&nbsp;",
           "_tags": [
             "Theme"
